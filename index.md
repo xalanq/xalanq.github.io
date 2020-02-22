@@ -1,8 +1,14 @@
-## Android
+## Introduction
 
 To be launched...
 
-## iOS
+## Download
+
+### Android
+
+To be launched...
+
+### iOS
 
 To be launched...
 
