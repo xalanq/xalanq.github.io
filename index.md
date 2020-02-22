@@ -1,3 +1,8 @@
+---
+title: 路過吧 Lugoby
+permalink: /
+---
+
 ## Introduction
 
 To be launched...
